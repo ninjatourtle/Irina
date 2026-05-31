@@ -1,0 +1,6 @@
+{
+  "name": "Ирина Сница — Психолог",
+  "description": "Персональный сайт-лендинг семейного и личностного психолога Ирины Сница с возможностью записи.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
