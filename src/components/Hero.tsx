@@ -101,7 +101,7 @@ export default function Hero({ onOpenBooking, onOpenChat }: HeroProps) {
             {/* Main Picture */}
             <div className="relative overflow-hidden rounded-2xl border border-brand-gold/30 bg-brand-card max-h-[460px] shadow-2xl shrink-0">
               <img
-                src="https://images.unsplash.com/photo-1594744803329-e58b31de215f?auto=format&fit=crop&q=80&w=600&h=800"
+                src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=600&h=800"
                 alt="Ирина Сница — Семейный и Личностный психолог"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover select-none object-top hover:scale-[1.03] transition-transform duration-700"

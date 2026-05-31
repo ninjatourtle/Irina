@@ -148,7 +148,7 @@ export default function ChatSimulator({ isOpen, onClose, onOpenBooking }: ChatSi
             <div className="flex items-center gap-3">
               <div className="relative">
                 <img
-                  src="https://images.unsplash.com/photo-1594744803329-e58b31de215f?auto=format&fit=crop&q=80&w=150&h=150"
+                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=150&h=150"
                   alt="Ирина Сница"
                   referrerPolicy="no-referrer"
                   className="w-10 h-10 rounded-full object-cover border border-brand-gold/30"
